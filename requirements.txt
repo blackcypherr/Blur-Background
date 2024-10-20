@@ -1,0 +1,5 @@
+Flask==2.2.3
+opencv-python
+mediapipe
+Pillow
+Werkzeug==2.2.3
